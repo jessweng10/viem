@@ -1,4 +1,4 @@
-wengjess10: NodeJS with Grunt
+[![Pull request](https://github.com/jessweng10/viem/actions/workflows/pull-request.yml/badge.svg)](https://github.com/jessweng10/viem/actions/workflows/pull-request.yml)wengjess10: NodeJS with Grunt
 
 on:
   push:
